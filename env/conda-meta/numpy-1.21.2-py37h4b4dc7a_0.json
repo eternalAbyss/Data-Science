@@ -1,0 +1,40 @@
+{
+  "build": "py37h4b4dc7a_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2021.3.0,<2022.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 1.21.2 py37he0bd621_0",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/eternalabyss/miniconda3/pkgs/numpy-1.21.2-py37h4b4dc7a_0",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.21.2-py37h4b4dc7a_0.conda",
+  "legacy_bz2_md5": "cb2874fbeb518ace3afce09b0f3df262",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/Users/eternalabyss/miniconda3/pkgs/numpy-1.21.2-py37h4b4dc7a_0",
+    "type": 1
+  },
+  "md5": "913eaf014337b40a78a9eb0c2719f298",
+  "name": "numpy",
+  "package_tarball_full_path": "/Users/eternalabyss/miniconda3/pkgs/numpy-1.21.2-py37h4b4dc7a_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "59f5924d05b803571b06aff10c3051d9892088be16c498a26e307a27a2563143",
+  "size": 23540,
+  "subdir": "osx-64",
+  "timestamp": 1634107117733,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/numpy-1.21.2-py37h4b4dc7a_0.conda",
+  "version": "1.21.2"
+}
