@@ -1,0 +1,13 @@
+prefix=/Users/eternalabyss/Code/Data-Science/MachineLearning/env
+exec_prefix=/Users/eternalabyss/Code/Data-Science/MachineLearning/env
+libdir=/Users/eternalabyss/Code/Data-Science/MachineLearning/env/lib
+sharedlibdir=/Users/eternalabyss/Code/Data-Science/MachineLearning/env/lib
+includedir=/Users/eternalabyss/Code/Data-Science/MachineLearning/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.12
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
